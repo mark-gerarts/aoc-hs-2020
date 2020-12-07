@@ -19,6 +19,8 @@ executable AdventOfCode
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5,
                        regex-tdfa,
-                       split
+                       split,
+                       graphite
   other-modules:       Day01A,
-                       Day04A
+                       Day04A,
+                       Day07A
