@@ -21,8 +21,11 @@ executable AdventOfCode
                        regex-tdfa,
                        split,
                        graphite,
-                       containers
+                       containers,
+                       vector,
+                       mtl
   other-modules:       Day01A,
                        Day04A,
                        Day07A,
-                       Day08A
+                       Day08A,
+                       Day10B
