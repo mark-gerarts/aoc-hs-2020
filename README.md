@@ -1,5 +1,7 @@
 # AdventOfCode 2020 in Haskell
 
+⚠️ I merged all my AOC repositories in a single one over [here](https://github.com/mark-gerarts/aoc).
+
 I have almost no time this year, but let's just start off and see where (and
 when) we end!
 
